@@ -1,0 +1,1 @@
+This add-on for Thunderbird with Lightning adds a 'Copy Reminders' button to the window with fired but not yet dismissed alerts and can be downloaded from [https://addons.mozilla.org/thunderbird/addon/copy-reminderlist-to-clipboard/](https://addons.mozilla.org/thunderbird/addon/copy-reminderlist-to-clipboard/)
